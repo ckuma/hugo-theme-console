@@ -1,4 +1,4 @@
-THIS IS A FORK OF THE ORIGINAL - I TAKE NO CREDIT
+THIS IS A FORK OF THE [ORIGINAL](https://github.com/mrmierzejewski/hugo-theme-console) - I TAKE NO CREDIT  
 Changes: personal fixes to URLs, (non-)inclusion of template & footer size
 
 # Hugo Theme: Console
