@@ -1,3 +1,6 @@
+THIS IS A FORK OF THE ORIGINAL - I TAKE NO CREDIT
+Changes: personal fixes to URLs, (non-)inclusion of template & footer size
+
 # Hugo Theme: Console
 
 A minimal, responsive and light theme for Hugo inspired by Linux console. 
